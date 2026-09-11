@@ -1,6 +1,5 @@
 # control-engineering
 
-# Control Engineering
 
 My personal notes, implementations, and experiments in control
 engineering.
